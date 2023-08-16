@@ -1,5 +1,10 @@
-import { Menu } from 'antd'
-import {AppstoreOutlined,ShopOutlined,ShoppingCartOutlined,UserOutlined} from '@ant-design/icons'
+import {
+  AppstoreOutlined,
+  ShopOutlined,
+  ShoppingCartOutlined,
+  UserOutlined,
+} from "@ant-design/icons";
+import { Menu } from "antd";
 import { useEffect, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 
